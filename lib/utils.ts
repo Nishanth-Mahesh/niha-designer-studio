@@ -5,7 +5,7 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
-export const WHATSAPP_NUMBER = "919999999999"; // Replace with actual number
+export const WHATSAPP_NUMBER = "8971545654"; // Replace with actual number
 export const WHATSAPP_MESSAGE = encodeURIComponent(
   "Hi! I'd like to book a consultation with NIHA DESIGNER STUDIO."
 );
